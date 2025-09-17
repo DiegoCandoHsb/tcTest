@@ -37,7 +37,7 @@
         protected void ProtectedMethod()
         {
             string protectedv = "protected";
-            Console.WriteLine("Protected method")//;
+            Console.WriteLine("Protected method");
         }
     }
 
