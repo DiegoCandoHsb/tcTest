@@ -12,7 +12,7 @@
         }
         private void PrivateMethod()
         {
-            string privatev = "private"
+            string privatev = "private";
             Console.WriteLine("Private method");
         }
         protected void ProtectedMethod()
